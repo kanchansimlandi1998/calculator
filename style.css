@@ -11,6 +11,7 @@ color: rgb(218, 133, 28);
   border: 1px solid black;
   padding: 15px 18px;
   color: rgb(218, 133, 28);
+  text-align:center;
 }
 .button-container{
   display: flex;
